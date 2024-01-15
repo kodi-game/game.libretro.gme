@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.gme"
+		name="Game Music Emu"
+		version="0.6.1.1"
+		provider-name="libretro">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+		<import addon="game.controller.default" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.gme</source>
+		<summary lang="en_GB">Game Music Emu</summary>
+		<description lang="en_GB">Port of blargg's Game Music Emu library.</description>
+	</extension>
+</addon>
