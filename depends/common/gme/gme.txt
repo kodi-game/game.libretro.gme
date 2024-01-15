@@ -1,0 +1,1 @@
+gme https://github.com/libretro/libretro-gme/archive/40d8b3bf4f0bd4f713f65e08c62d30b1ae8b2282.tar.gz
