@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.gme"
 		name="Game Music Emu"
-		version="0.6.1.2"
+		version="0.6.1.3"
 		provider-name="Blargg">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
