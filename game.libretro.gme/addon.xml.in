@@ -22,11 +22,13 @@
 		<summary lang="en_GB">Game Music Emu</summary>
 		<summary lang="es_ES">Game Music Emu</summary>
 		<summary lang="it_IT">Game Music Emu</summary>
+		<summary lang="ru_RU">Game Music Emu</summary>
 		<summary lang="sv_SE">Game Music Emu</summary>
 		<summary lang="zh_CN">游戏音乐 Emu</summary>
 		<description lang="en_GB">Port of blargg&apos;s Game Music Emu library.</description>
 		<description lang="es_ES">Adaptación de la biblioteca Game Music Emu de blargg.</description>
 		<description lang="it_IT">Porta della libreria Game Music Emu di blargg.</description>
+		<description lang="ru_RU">Порт библиотеки Game Music Emu от blargg.</description>
 		<description lang="sv_SE">Port av blarggs Game Music Emu-bibliotek.</description>
 		<description lang="zh_CN">blargg 游戏音乐 Emu 库的移植。</description>
 	</extension>
