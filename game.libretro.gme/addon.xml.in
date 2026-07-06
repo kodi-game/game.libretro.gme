@@ -20,6 +20,7 @@
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.gme</source>
+		<summary lang="cs_CZ">Game Music Emu</summary>
 		<summary lang="en_GB">Game Music Emu</summary>
 		<summary lang="es_ES">Game Music Emu</summary>
 		<summary lang="ga">Emu Ceol Cluiche</summary>
@@ -27,6 +28,7 @@
 		<summary lang="ru_RU">Game Music Emu</summary>
 		<summary lang="sv_SE">Game Music Emu</summary>
 		<summary lang="zh_CN">游戏音乐 Emu</summary>
+		<description lang="cs_CZ">Port knihovny Game Music Emu od blargga.</description>
 		<description lang="en_GB">Port of blargg&apos;s Game Music Emu library.</description>
 		<description lang="es_ES">Adaptación de la biblioteca Game Music Emu de blargg.</description>
 		<description lang="ga">Leabharlann Emu Ceoil Cluiche Calafoirt blargg.</description>
